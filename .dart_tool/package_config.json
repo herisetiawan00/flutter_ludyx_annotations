@@ -1,0 +1,22 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/herisetiawan/.pub-cache/hosted/pub.dev/meta-1.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "flutter_ludyx_annotations",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.13"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.14.0",
+  "flutterRoot": "file:///Users/herisetiawan/.local/share/mise/installs/flutter/3.50.0-stable",
+  "flutterVersion": "3.50.0",
+  "pubCache": "file:///Users/herisetiawan/.pub-cache"
+}

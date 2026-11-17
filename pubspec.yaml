@@ -1,0 +1,11 @@
+name: flutter_ludyx_annotations
+description: "Annotations for flutter_ludyx_generator package"
+version: 0.0.1
+homepage: "https://herisetiawan.id"
+repository: "https://github.com/herisetiawan00/flutter_ludyx_annotations"
+
+
+environment:
+  sdk: ^3.13.7
+dependencies:
+  meta: ^1.19.0
